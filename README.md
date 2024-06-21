@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>Perfil de Ana Flávia Freiria Rodrigues</h1>
+            <h1>Perfil</h1>
         </header>
         <div class="info">
             <h1>Ana Flávia Freiria Rodrigues</h1>
