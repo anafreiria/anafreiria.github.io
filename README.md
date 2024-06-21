@@ -4,55 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil de Ana Flávia Freiria Rodrigues</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-            background-color: #fff;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        header {
-            text-align: center;
-            padding: 10px 0;
-            background-color: #007BFF;
-            color: white;
-        }
-        .profile-pic {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            object-fit: cover;
-            display: block;
-            margin: 0 auto;
-        }
-        .info {
-            text-align: center;
-            margin: 20px 0;
-        }
-        .info h1 {
-            margin: 10px 0;
-        }
-        .info p {
-            margin: 5px 0;
-        }
-        .social-links {
-            text-align: center;
-            margin-top: 20px;
-        }
-        .social-links a {
-            margin: 0 10px;
-            text-decoration: none;
-            color: #007BFF;
-        }
-    </style>
+   
 </head>
 <body>
     <div class="container">
