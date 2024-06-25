@@ -19,7 +19,7 @@
         </div>
         <div class="biography">
             <h2>Biografia</h2>
-            <p>Olá, me chamo Ana Flávia, concluí o ensino médio em 2023, e dei início aos meus estudos em Ciências da Computação na UNIFAL-MG de Alfenas em 2024.Atualmente focada na aprimoração de projetos na linguagem C\C++</p>
+            <p>Olá, me chamo Ana Flávia, concluí o ensino médio em 2023, e dei início aos meus estudos em Ciências da Computação na UNIFAL-MG de Alfenas em 2024.Atualmente focada na aprimoração de projetos na linguagem C\C++. Natural da cidade de Alterosa, MG e moro em Alfenas para cursar computação.</p>
         </div>
         <div class="social-links">
             <h2>Redes Sociais</h2>
